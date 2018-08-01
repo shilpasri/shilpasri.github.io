@@ -1,7 +1,9 @@
 title: Blog
 name: Shilpasri G Bhat
-email1: shilpa.bhat11@gmail.com
+email: shilpa.bhat11@gmail.com
 email2: shilpa.bhat@linux.ibm.com
 github: shilpasri
 theme: jekyll-theme-slate
-
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
