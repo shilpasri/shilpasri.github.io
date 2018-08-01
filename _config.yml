@@ -4,5 +4,3 @@ github_username: shilpasri
 
 markdown: kramdown
 theme: minima
-gems:
-  - jekyll-feed
