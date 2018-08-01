@@ -2,7 +2,7 @@ title: Blog
 author: Shilpasri G Bhat
 email: shilpa.bhat11@gmail.com shilpa.bhat@linux.ibm.com
 github_username: shilpasri
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
 markdown: kramdown
 gems:
   - jekyll-feed
