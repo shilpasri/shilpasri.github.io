@@ -137,7 +137,7 @@ The hwmon sensors can be found in /sys/class/hwmon/hwmon0/.
 
 Each sysfs file is of the below format:
 
-``typeX_attribute
+	typeX_attribute
 
 - type:  Sensor type
 
@@ -181,5 +181,5 @@ For example to read the temperature of a core:
 	31000
 
 More information on the sysfs files can be found here:
-https://elixir.bootlin.com/linux/v4.18-rc7/source/Documentation/hwmon/sysfs-interface
-https://elixir.bootlin.com/linux/v4.18-rc7/source/Documentation/hwmon/ibmpowernv
+- https://elixir.bootlin.com/linux/v4.18-rc7/source/Documentation/hwmon/sysfs-interface
+- https://elixir.bootlin.com/linux/v4.18-rc7/source/Documentation/hwmon/ibmpowernv
