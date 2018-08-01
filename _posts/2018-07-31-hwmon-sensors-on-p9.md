@@ -1,3 +1,8 @@
+---
+layout: post
+title: Hwmon sensors in P9
+---
+
 Hwmon / Lm-sensors
 ===================
 
