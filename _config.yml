@@ -1,10 +1,4 @@
 title: Blog
 author: Shilpasri G Bhat
-email: shilpa.bhat11@gmail.com shilpa.bhat@linux.ibm.com
-baseurl: "" # the subpath of your site, e.g. /blog
-github_username: shilpasri
 
-markdown: kramdown
 theme: jekyll-theme-time-machine
-gems:
-  - jekyll-feed
