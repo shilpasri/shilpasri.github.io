@@ -5,10 +5,11 @@ date: 2018-07-31 11:00:00 +0530
 categories: Sensors
 ---
 
-Hwmon or lm-sensors is the standard Linux interface to read sensors.  To read the hwmon sensors one can either
-read the individual sensor sysfs files or run the sensors command like below.
+## Hwmon / Lm-sensors
 
-For example in P9, the sensors output is as below:
+Hwmon or lm-sensors is the standard Linux interface to read sensors.  To read the hwmon sensors one can either read the individual sensor sysfs files or run the sensors command like below.
+
+For example in POWER9, the sensors output is as below:
 
 	# sensors
 	ibmpowernv-isa-0000
