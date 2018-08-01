@@ -3,9 +3,8 @@ author: Shilpasri G Bhat
 email: shilpa.bhat11@gmail.com shilpa.bhat@linux.ibm.com
 baseurl: "" # the subpath of your site, e.g. /blog
 github_username: shilpasri
-future: true
-theme: jekyll-theme-merlot
+
 markdown: kramdown
+theme: minima
 gems:
   - jekyll-feed
-  
