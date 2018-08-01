@@ -2,7 +2,7 @@ title: Shilpa's Blog
 email: shilpa.bhat11@gmail.com
 github_username: shilpasri
 
-# Build settings
 markdown: kramdown
 theme: minima
-
+gems:
+  - jekyll-feed
