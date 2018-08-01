@@ -4,7 +4,7 @@ email: shilpa.bhat11@gmail.com shilpa.bhat@linux.ibm.com
 baseurl: "" # the subpath of your site, e.g. /blog
 github_username: shilpasri
 future: true
-theme: jekyll-theme-cayman
+theme: jekyll-theme-merlot
 markdown: kramdown
 gems:
   - jekyll-feed
