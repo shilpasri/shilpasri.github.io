@@ -5,6 +5,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 github_username: shilpasri
 
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-time-machine
 gems:
   - jekyll-feed
