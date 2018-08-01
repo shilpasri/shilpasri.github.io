@@ -3,9 +3,6 @@ layout: post
 title: Hwmon sensors in P9
 ---
 
-Hwmon / Lm-sensors
-===================
-
 Hwmon or lm-sensors is the standard Linux interface to read sensors.  To read the hwmon sensors one can either
 read the individual sensor sysfs files or run the sensors command like below.
 
